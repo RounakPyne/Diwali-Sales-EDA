@@ -19,7 +19,7 @@ The main goal of this project is to **improve customer experience by analyzing s
   - [Top Customers Analysis](#top-customers-analysis)
 - [Key Insights](#key-insights)
 - [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
+
 
 ---
 
