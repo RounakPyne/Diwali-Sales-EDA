@@ -62,70 +62,83 @@ The main goal of this project is to **improve customer experience by analyzing s
 ## Exploratory Data Analysis (EDA)
 
 ### Gender Distribution  
-![Gender Distribution](path/to/gender_distribution.png)  
+![Gender Distribution](https://github.com/RounakPyne/Diwali-Sales-EDA/blob/main/New%20folder/gender%20distribution.png)  
 **Insight**: More female customers made purchases than males.
 
 ---
 
 ### Sales Based on Gender  
-![Sales Based on Gender](path/to/sales_by_gender.png)  
+![Sales Based on Gender](https://github.com/RounakPyne/Diwali-Sales-EDA/blob/5f0e35149318a4611525006aabf5610880bdff04/New%20folder/Sales%20Based%20on%20Gender.png)  
 **Insight**: Female customers contributed to a higher total sales amount than males.
 
 ---
 
 ### Age Group Analysis  
 #### 1. Age Group by Gender  
-![Age Group by Gender](path/to/age_group_by_gender.png)  
+![Age Group by Gender](https://github.com/RounakPyne/Diwali-Sales-EDA/blob/5f0e35149318a4611525006aabf5610880bdff04/New%20folder/Age%20Group%20by%20Gender.png)  
 **Insight**: Age groups 26-35 and 36-45 show the highest spending patterns.
 
 #### 2. Age Group by Amount  
-![Age Group by Amount](path/to/age_group_by_amount.png)  
+![Age Group by Amount](https://github.com/RounakPyne/Diwali-Sales-EDA/blob/5f0e35149318a4611525006aabf5610880bdff04/New%20folder/Age%20Group%20by%20Amount%20.png) 
 **Insight**: Age group 26-35 spent over ₹40 million, the highest among all groups.
 
 ---
 
 ### State-wise Sales and Orders  
 #### 1. Amount Spent by Each State  
-![State by Amount](path/to/state_by_amount.png)  
+![State by Amount](https://github.com/RounakPyne/Diwali-Sales-EDA/blob/5f0e35149318a4611525006aabf5610880bdff04/New%20folder/Age%20Group%20by%20State.png)  
 **Insight**: Uttar Pradesh recorded the highest spending at ₹19 million.
 
 #### 2. Orders by State  
-![Orders by State](path/to/orders_by_state.png)  
+![Orders by State](https://github.com/RounakPyne/Diwali-Sales-EDA/blob/5f0e35149318a4611525006aabf5610880bdff04/New%20folder/Orders%20by%20State.png) 
 **Insight**: Uttar Pradesh leads with 4.8k orders, followed by Maharashtra and Karnataka.
 
 ---
 
 ### Marital Status Distribution  
-![Marital Status](path/to/marital_status_distribution.png)  
+![Marital Status](https://github.com/RounakPyne/Diwali-Sales-EDA/blob/5f0e35149318a4611525006aabf5610880bdff04/New%20folder/Marital%20Status%20Distribution.png)
 **Insight**: Married individuals made more purchases than unmarried individuals.
 
 ---
 
 ### Occupation Insights  
-![Occupation Distribution](path/to/occupation_distribution.png)  
+![Occupation Distribution](https://github.com/RounakPyne/Diwali-Sales-EDA/blob/5f0e35149318a4611525006aabf5610880bdff04/New%20folder/Occupation%20Insights.png)  
 **Insight**: Healthcare and IT professionals are the most frequent buyers, followed by the Aviation and Banking sectors.
 
 ---
 
 ### Product Category Insights  
 #### 1. Product Category Count Plot  
-![Product Category Count](path/to/product_category_count.png)  
+![Product Category Count](https://github.com/RounakPyne/Diwali-Sales-EDA/blob/5f0e35149318a4611525006aabf5610880bdff04/New%20folder/Product%20Category%20Count%20Plot.png)  
 **Insight**: Food and Clothing & Apparel have the highest counts, while categories like Furniture and Sports Products have fewer orders.
 
 #### 2. Top 10 Product Categories by Amount  
-![Top Product Categories](path/to/top_product_categories.png)  
+![Top Product Categories](https://github.com/RounakPyne/Diwali-Sales-EDA/blob/5f0e35149318a4611525006aabf5610880bdff04/New%20folder/Top%2010%20Product%20Categories%20by%20Amount.png)  
+**Insight**: Electronics, Clothing, and Food lead in total sales amount.
+
+#### 3. Top 10 Orders by each Product_Category
+![Top Product Categories](https://github.com/RounakPyne/Diwali-Sales-EDA/blob/5f0e35149318a4611525006aabf5610880bdff04/New%20folder/Top%2010%20Orders%20by%20each%20Product_Category.png)  
 **Insight**: Electronics, Clothing, and Food lead in total sales amount.
 
 ---
 
 ### Top Customers Analysis  
 #### 1. Top 10 Customers by Amount  
-![Top Customers by Amount](path/to/top_customers_by_amount.png)  
+![Top Customers by Amount](https://github.com/RounakPyne/Diwali-Sales-EDA/blob/5f0e35149318a4611525006aabf5610880bdff04/New%20folder/Top%2010%20Customers%20by%20Amount.png)  
 **Insight**: Vishakha is the top spender with ₹380k.
 
 #### 2. Top 10 Customers by Orders  
-![Top Customers by Orders](path/to/top_customers_by_orders.png)  
+![Top Customers by Orders](https://github.com/RounakPyne/Diwali-Sales-EDA/blob/5f0e35149318a4611525006aabf5610880bdff04/New%20folder/Top%2010%20Customers%20by%20Orders.png)  
 **Insight**: Customers like Aastha and Vishakha placed the most orders.
+
+### Zonal Analysis
+#### 1. Top 10 zones by orders  
+![Top Customers by Orders](https://github.com/RounakPyne/Diwali-Sales-EDA/blob/5f0e35149318a4611525006aabf5610880bdff04/New%20folder/Top%2010%20zones%20by%20orders.png)  
+**Insight**: Central,Southern,Western,Northern and Eastern.
+
+#### 2. Top 10 states in zones by orders 
+![Top Customers by Orders](https://github.com/RounakPyne/Diwali-Sales-EDA/blob/5f0e35149318a4611525006aabf5610880bdff04/New%20folder/Top%2010%20states%20in%20zones%20by%20orders.png)  
+**Insight**: Uttar pradesh, Delhi, Madhya Pradesh, Maharstara, Gujrat, Karnataka, Andhra Pradesh, Kerala, Himachal Pradesh, Haryana.
 
 ---
 
@@ -146,7 +159,3 @@ The main goal of this project is to **improve customer experience by analyzing s
 
 ---
 
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/diwali-sales-analysis.git
